@@ -1,6 +1,6 @@
 # Spotify Web Player
 
-# Welcome to the Spotify Web Player, a web application designed to provide music streaming services to users. This project aims to replicate some of the functionalities and design elements of the official Spotify app.
+## Welcome to the Spotify Web Player, a web application designed to provide music streaming services to users. This project aims to replicate some of the functionalities and design elements of the official Spotify app.
 
 # Features
 - Sidebar Navigation: Navigate through different sections of the app such as Home and Search.
